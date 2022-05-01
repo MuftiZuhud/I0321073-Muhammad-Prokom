@@ -1,0 +1,6 @@
+Nama: Mufti
+Umur: 19
+Alamat: Bogor
+Nama: Zuhud
+Umur: 21
+Alamat: Jakarta
